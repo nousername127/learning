@@ -1,0 +1,102 @@
+.tabs{
+	flex-direction: row;
+	display: flex;
+	align-items: center;
+	margin-top: 10rpx;
+	margin-bottom: 5rpx;
+}
+.line{
+	width: 5rpx;
+	height:50rpx;
+	background-color: #AAAAAA;
+	border-radius: 8rpx;
+}
+.tab-title{
+	display: flex;
+	font-size: 40rpx;
+	color: #AAAAAA;
+	margin-left: 10rpx;
+}
+.tab-more{
+	display: flex;
+	font-size: 50rpx;
+	color: #AAAAAA;
+	margin-left:auto;
+}
+.cards{
+	display: flex;
+	flex-wrap: wrap;
+}
+.study-room{
+	width:350rpx;
+	height:300rpx;
+} 
+.cu-item{
+	width:320rpx;
+	height:270rpx;
+	border-style: solid;
+	border-color: #555555;
+	border-radius: 10rpx;
+	border-width: 0.1rpx;
+	margin: 0 auto;
+}
+.card-title{
+	font-size: 30rpx;
+	color: #555555;
+	font-weight: 600;
+}
+.card-bottom{
+	display: flex;
+	margin:20rpx 8rpx 0 8rpx;
+}
+.study-time{
+	margin-left: auto;
+	font-size: 20rpx;
+}
+.highlight-block{
+	width: auto;
+	height:32rpx;
+	font-size: 20rpx;
+	background-color: #02BFBF;
+	text-align: center;
+	border-radius: 5rpx;
+}
+
+.disc-room{
+	border-style: solid;
+	border-width: 1rpx;
+	border-radius: 5rpx;
+	border-color: #555555;
+	padding: 3rpx 5rpx;
+	margin-bottom: 10rpx;
+}
+.disc-top{
+	display: flex;
+	margin-bottom: 3rpx;
+}
+.disc-title{
+	margin-left: 5rpx;
+}
+.hot-disc{
+	display: flex;
+	align-items: center;
+	font-size: 12rpx;
+	margin-bottom: 3rpx;
+}
+.host image{
+	width: 25rpx;
+	height: 25rpx;
+	margin-right: 5rpx;
+}
+.host{
+	display: flex;
+	align-items: center;
+}
+.start{
+	color: #02BFBF;
+	margin-left: 20rpx;
+	font-size: 10rpx;
+}
+.disc-num{
+	margin-left:auto;
+}

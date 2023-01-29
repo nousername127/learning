@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "sass-loader": "^12.1.0"
+  },
+  "dependencies": {
+    "ali-oss": "^6.16.0",
+    "echarts": "^5.2.0",
+    "mpvue-echarts": "^0.3.2"
+  }
+}
